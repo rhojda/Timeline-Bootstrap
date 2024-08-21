@@ -7,3 +7,5 @@ Thanks for taking a look at the code. There are a couple of things I need some h
 2 - I'm trying to animate the arrows on the navbar so that when they are clicked, it jumps from one pill to the next in the navigation bar
 
 3 - I'm having trouble making the line in the timeline card fit the whole length of the card, as shown on Figma. So far I've just been manually putting the height of the line for each card in the timeline.
+
+4 - Overflow isn't working either, not sure why. I think its because of the position: absolute, but not sure
